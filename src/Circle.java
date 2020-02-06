@@ -2,7 +2,7 @@ public class Circle {
     // Data fields
 
     private double radius = 1;  // Data field
-    private static int numberOfObjects = 0;
+    private static int numberOfObjects = 0; // Static variable shares data between all instances of the class
     //---------------------------------------
 
     // Constructors
